@@ -1,2 +1,2 @@
-# Feature-Reduction-AWID
-This repository provides the code for hybrid feature reduction using Embedded and Recursive Elimination
+# Wireless Intrusion Detection System
+This repository provides the code for the classification of attacks with hybrid feature reduction and ensembled models 
